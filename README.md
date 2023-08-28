@@ -24,3 +24,6 @@ The Temperature Converter is a Java application that allows users to easily conv
 ## Development
 * The program is written in Java and uses Swing for GUI components.
 * The application provides a straightforward way to convert temperatures without complex features.
+
+## Temperature Converter Screenshot
+![Temperature Converter Screenshot](https://github.com/Umar-Ashraf09/INTERNSAVY-Internship-Task-1-Temperature-Converter/assets/92431008/d18fd02b-e196-443c-813a-f925ff9c2ecc)
